@@ -19,7 +19,7 @@ const Footer = () => {
           Ready to collaborate on innovative <span className="text-blue-300">projects</span>?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Let's connect and discuss how we can work together to create impactful solutions.
+          Let&#39;s connect and discuss how we can work together to create impactful solutions.
         </p>
         <a href="mailto:kyleseto01@gmail.com">
           <MagicButton

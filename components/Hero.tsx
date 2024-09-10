@@ -36,7 +36,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I'm Kyle, a Full-Stack Developer and Statistics Graduate based in Toronto.
+            Hi! I&#39;m Kyle, a Full-Stack Developer and Statistics Graduate based in Toronto.
           </p>
 
           <a href="#about">
