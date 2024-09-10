@@ -4,6 +4,9 @@
 
 This is the personal portfolio website of Kyle Seto, a Full-Stack Developer and Statistics Graduate based in Toronto. The site showcases Kyle's skills, work experience, and projects using modern web technologies.
 
+![Website Homepage](./public/images/HomeScreenshot.png)
+![Website Aboutpage](./public/images/HomeScreenshot.png)
+
 ## Technologies Used
 
 - **Next.js 14**: A React framework for building server-side rendered and statically generated web applications.
